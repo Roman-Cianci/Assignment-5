@@ -1,0 +1,15 @@
+.body {
+  background-color: rgb(130, 204, 214);
+}
+
+#text-id {
+  font-family: monospace;
+  font-size: 170%;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  color: rgb(0, 0, 0);
+  font-family: monospace;
+  font-size: 170%;
+}
